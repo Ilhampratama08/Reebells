@@ -16,7 +16,7 @@ const homepage = () => {
                   </div>
                   <p className="ms-[1rem] mt-[-3rem]"><b>Prototype</b></p>
                   <p className="ms-[-4.7rem] mt-[rem]">404</p>
-                  <Link href="" className=" ms-[20rem] mt-[1rem]" align="center">Followers <br /> 404</Link>
+                  <Link href="" className=" ms-[20rem] mt-[1rem]">Followers <br /> 404</Link>
                 </div>
             </div>
             <div className="mx-[rem]">
