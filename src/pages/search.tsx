@@ -18,10 +18,9 @@ const homepage = () => {
 
             <div className=" mt-5 items-center">
                 <div className="flex items-center">
-                   <div className="w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] opacity rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-                   </div>
-                   <p className="ms-3 h-[4rem]"><b>bot1</b></p>
+                   <Image className="w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/erk.jpg" width={80} height={80}> 
+                   </Image>
+                   <p className="ms-3 h-[4rem] w-[2rem]"><b>Erika</b></p>
                    <p className="ms-[-2rem] h-[1rem]">Prototype</p>
                    <button className="h-8 w-[7rem] ms-[15rem] mt-2 text-[#fff] rounded-lg bg-[#397692]">Follow</button>
                 </div>
@@ -30,10 +29,9 @@ const homepage = () => {
             <div className="mt-2 h-[0.5px] bg-black"></div>
             <div className=" mt-2 items-center">
                 <div className="flex items-center">
-                   <div className="w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] opacity rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-                   </div>
-                   <p className="ms-3 h-[4rem]"><b>bot2</b></p>
+                   <Image className="w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/edg.jpg" width={80} height={80}> 
+                   </Image>
+                   <p className="ms-3 h-[4rem] w-[2rem]"><b>Edgar</b></p>
                    <p className="ms-[-2rem] h-[1rem]">Prototype</p>
                    <button className="h-8 w-[7rem] ms-[15rem] mt-2 text-[#fff] rounded-lg bg-[#397692]">Follow</button>
                 </div>
@@ -42,10 +40,9 @@ const homepage = () => {
             <div className="mt-2 h-[1px] bg-black"></div>
             <div className=" mt-2 items-center">
                 <div className="flex items-center">
-                   <div className="w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] opacity rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-                   </div>
-                   <p className="ms-3 h-[4rem]"><b>bot3</b></p>
+                   <Image className="w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/kepin.jpg" width={80} height={80}> 
+                   </Image>
+                   <p className="ms-3 h-[4rem] w-[2rem]"><b>Kevin</b></p>
                    <p className="ms-[-2rem] h-[1rem]">Prototype</p>
                    <button className="h-8 w-[7rem] ms-[15rem] mt-2 text-[#fff] rounded-lg bg-[#397692]">Follow</button>
                 </div>
@@ -54,10 +51,9 @@ const homepage = () => {
             <div className="mt-2 h-[1px] bg-black"></div>
             <div className=" mt-2 items-center">
                 <div className="flex items-center">
-                   <div className="w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] opacity rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-                   </div>
-                   <p className="ms-3 h-[4rem]"><b>bot4</b></p>
+                   <Image className="w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/jrt.jpg" width={80} height={80}> 
+                   </Image>
+                   <p className="ms-3 h-[4rem] w-[2rem]"><b>Jarot</b></p>
                    <p className="ms-[-2rem] h-[1rem]">Prototype</p>
                    <button className="h-8 w-[7rem] ms-[15rem] mt-2 text-[#fff] rounded-lg bg-[#397692]">Follow</button>
                 </div>
@@ -66,10 +62,9 @@ const homepage = () => {
             <div className="mt-2 h-[0.5px] bg-black"></div>
             <div className=" mt-2 items-center">
                 <div className="flex items-center">
-                   <div className="w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] opacity rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-                   </div>
-                   <p className="ms-3 h-[4rem]"><b>bot5</b></p>
+                   <Image className="w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/ern.jpg" width={80} height={80}> 
+                   </Image>
+                   <p className="ms-3 h-[4rem] w-[2rem]"><b>Erwin</b></p>
                    <p className="ms-[-2rem] h-[1rem]">Prototype</p>
                    <button className="h-8 w-[7rem] ms-[15rem] mt-2 text-[#fff] rounded-lg bg-[#397692]">Follow</button>
                 </div>
@@ -78,10 +73,9 @@ const homepage = () => {
             <div className="mt-2 h-[1px] bg-black"></div>
             <div className=" mt-2 items-center">
                 <div className="flex items-center">
-                   <div className="w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] opacity rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-                   </div>
-                   <p className="ms-3 h-[4rem]"><b>bot6</b></p>
+                   <Image className="w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/prel.jpg" width={80} height={80}> 
+                   </Image>
+                   <p className="ms-3 h-[4rem] w-[2rem]"><b>Wilson</b></p>
                    <p className="ms-[-2rem] h-[1rem]">Prototype</p>
                    <button className="h-8 w-[7rem] ms-[15rem] mt-2 text-[#fff] rounded-lg bg-[#397692]">Follow</button>
                 </div>
@@ -90,10 +84,9 @@ const homepage = () => {
             <div className="mt-2 h-[0.5px] bg-black"></div>
             <div className=" mt-2 items-center">
                 <div className="flex items-center">
-                   <div className="w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] opacity rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-                   </div>
-                   <p className="ms-3 h-[4rem]"><b>bot7</b></p>
+                   <Image className="w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/adul.jpg" width={80} height={80}> 
+                   </Image>
+                   <p className="ms-3 h-[4rem] w-[2rem]"><b>Darmian</b></p>
                    <p className="ms-[-2rem] h-[1rem]">Prototype</p>
                    <button className="h-8 w-[7rem] ms-[15rem] mt-2 text-[#fff] rounded-lg bg-[#397692]">Follow</button>
                 </div>
@@ -102,10 +95,9 @@ const homepage = () => {
             <div className="mt-2 h-[1px] bg-black"></div>
             <div className=" mt-2 items-center">
                 <div className="flex items-center">
-                   <div className="w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] opacity rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-                   </div>
-                   <p className="ms-3 h-[4rem]"><b>bot8</b></p>
+                   <Image className="w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/pp.jpg" width={80} height={80}> 
+                   </Image>
+                   <p className="ms-3 h-[4rem] w-[2rem]"><b>Darwin</b></p>
                    <p className="ms-[-2rem] h-[1rem]">Prototype</p>
                    <button className="h-8 w-[7rem] ms-[15rem] mt-2 text-[#fff] rounded-lg bg-[#397692]">Follow</button>
                 </div>
@@ -114,10 +106,9 @@ const homepage = () => {
             <div className="mt-2 h-[1px] bg-black"></div>
             <div className=" mt-2 items-center">
                 <div className="flex items-center">
-                   <div className="w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] opacity rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-                   </div>
-                   <p className="ms-3 h-[4rem]"><b>bot9</b></p>
+                   <Image className="w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/ris.jpg" width={80} height={80}> 
+                   </Image>
+                   <p className="ms-3 h-[4rem] w-[2rem]"><b>Risna</b></p>
                    <p className="ms-[-2rem] h-[1rem]">Prototype</p>
                    <button className="h-8 w-[7rem] ms-[15rem] mt-2 text-[#fff] rounded-lg bg-[#397692]">Follow</button>
                 </div>
@@ -126,10 +117,9 @@ const homepage = () => {
             <div className="mt-2 h-[0.5px] bg-black"></div>
             <div className=" mt-2 items-center">
                 <div className="flex items-center">
-                   <div className="w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] opacity rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-                   </div>
-                   <p className="ms-3 h-[4rem]"><b>bot10</b></p>
+                   <Image className="w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/gin.jpg" width={80} height={80}> 
+                   </Image>
+                   <p className="ms-3 h-[4rem] w-[2rem]"><b>Gina</b></p>
                    <p className="ms-[-2rem] h-[1rem]">Prototype</p>
                    <button className="h-8 w-[7rem] ms-[15rem] mt-2 text-[#fff] rounded-lg bg-[#397692]">Follow</button>
                 </div>

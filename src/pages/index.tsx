@@ -11,10 +11,8 @@ const homepage = () => {
        <main className="mx-[32rem]">
         <div className="flex justify-between mt-[4rem] items-center">
           <div className="flex items-center mt-[1rem]">
-            <div className="w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] opacity rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-            </div>
-            <p className="ms-3 h-[4rem] "><b>Bot1</b></p>
+            <Image className="ms-[-1rem] w-[4.5rem] h-[4.5rem] rounded-full" alt="wow" src="/wow.jpg" width={80} height={80}></Image>
+            <p className="ms-3 h-[4rem] "><b>Kashim</b></p>
             <input className="ms-[-2rem] w-[22rem] focus:outline-none" placeholder="Add Text" />
           </div>
           <button className="h-8 w-[5rem] mt-6 text-[#fff] rounded-lg bg-[#397692]">Post</button>
@@ -23,12 +21,10 @@ const homepage = () => {
 
         <div className="flex justify-between mt-2 items-center">
           <div className="flex items-center">
-            <div className="w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] opacity rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-            </div>
+            <Image className="ms-[-1rem] w-[4.5rem] h-[4.5rem] opacity rounded-full" alt="wow" src="/adul.jpg" width={80} height={80 }></Image>
 
-            <p className="ms-3 h-[4rem]"><b>Bot2</b></p>
-            <p className="ms-[-2rem] h-[1.5rem]">Hallo gais</p>
+            <p className="ms-2 h-[4rem]"><b>Darmian</b></p>
+            <p className="ms-[-3rem] h-[1.5rem]">Hallo gais</p>
             <button className="mt-14 ms-[-4.5rem]"><svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 48 48"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M15 8C8.925 8 4 12.925 4 19c0 11 13 21 20 23.326C31 40 44 30 44 19c0-6.075-4.925-11-11-11c-3.72 0-7.01 1.847-9 4.674A10.987 10.987 0 0 0 15 8"/></svg></button>
             <button className="mt-14 ms-[0.8rem]"><svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24"><path fill="black" d="M12 2A10 10 0 0 0 2 12a9.89 9.89 0 0 0 2.26 6.33l-2 2a1 1 0 0 0-.21 1.09A1 1 0 0 0 3 22h9a10 10 0 0 0 0-20m0 18H5.41l.93-.93a1 1 0 0 0 0-1.41A8 8 0 1 1 12 20"/></svg></button>
             <button className="mt-14 ms-[0.8rem]"><svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 0 0-3.7-3.7a48.678 48.678 0 0 0-7.324 0a4.006 4.006 0 0 0-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 0 0 3.7 3.7a48.656 48.656 0 0 0 7.324 0a4.006 4.006 0 0 0 3.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3"/></svg></button>
@@ -40,12 +36,11 @@ const homepage = () => {
 
         <div className="flex justify-between mt-2 items-center">
           <div className="flex items-center">
-            <p className="mt-[-15rem] w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-            </p>
+            <Image className="mt-[-15rem] w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/prel.jpg" width={80} height={80}></Image>
 
-            <p className="ms-3 h-[19rem]"><b>Bot3</b></p>
-            <Image className="ms-[-2rem] rounded" src="/ee.jpg" alt="asoy" width={650} height={400}></Image>
+            <p className="ms-3 h-[19rem]"><b>Wilson</b></p>
+            <p className=""></p>
+            <Image className="ms-[-3rem] rounded" src="/ee.jpg" alt="asoy" width={650} height={400}></Image>
             <button className="mt-[18rem] ms-[-26.5rem]"><svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 48 48"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M15 8C8.925 8 4 12.925 4 19c0 11 13 21 20 23.326C31 40 44 30 44 19c0-6.075-4.925-11-11-11c-3.72 0-7.01 1.847-9 4.674A10.987 10.987 0 0 0 15 8"/></svg></button>
             <button className="mt-[18rem] ms-[0.8rem]"><svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24"><path fill="black" d="M12 2A10 10 0 0 0 2 12a9.89 9.89 0 0 0 2.26 6.33l-2 2a1 1 0 0 0-.21 1.09A1 1 0 0 0 3 22h9a10 10 0 0 0 0-20m0 18H5.41l.93-.93a1 1 0 0 0 0-1.41A8 8 0 1 1 12 20"/></svg></button>
             <button className="mt-[18rem] ms-[0.8rem]"><svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 0 0-3.7-3.7a48.678 48.678 0 0 0-7.324 0a4.006 4.006 0 0 0-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 0 0 3.7 3.7a48.656 48.656 0 0 0 7.324 0a4.006 4.006 0 0 0 3.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3"/></svg></button>
@@ -57,12 +52,10 @@ const homepage = () => {
 
         <div className="flex justify-between mt-2 items-center">
           <div className="flex items-center">
-            <p className="mt-[-15rem] w-[4rem] h-[4rem] bg-[#D9D9D9] ms-[-1rem] rounded-full items-center justify-center flex"><svg xmlns="http://www.w3.org/2000/svg" width="5em" height="3em" viewBox="0 0 16 16"><g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><circle cx="8" cy="6" r="3.25"/>
-          <path d="M2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/></g></svg> 
-            </p>
+            <Image className="mt-[-15rem] w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/pp.jpg" width={80} height={80}></Image>
 
-            <p className="ms-3 h-[19rem]"><b>Bot4</b></p>
-            <Image className="ms-[-2rem] rounded" src="/ee.jpg" alt="asoy" width={650} height={400}></Image>
+            <p className="ms-3 h-[19rem]"><b>Darwin</b></p>
+            <Image className="ms-[-3rem] rounded" src="/ee.jpg" alt="asoy" width={650} height={400}></Image>
             <button className="mt-[18rem] ms-[-26.5rem]"><svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 48 48"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M15 8C8.925 8 4 12.925 4 19c0 11 13 21 20 23.326C31 40 44 30 44 19c0-6.075-4.925-11-11-11c-3.72 0-7.01 1.847-9 4.674A10.987 10.987 0 0 0 15 8"/></svg></button>
             <button className="mt-[18rem] ms-[0.8rem]"><svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24"><path fill="black" d="M12 2A10 10 0 0 0 2 12a9.89 9.89 0 0 0 2.26 6.33l-2 2a1 1 0 0 0-.21 1.09A1 1 0 0 0 3 22h9a10 10 0 0 0 0-20m0 18H5.41l.93-.93a1 1 0 0 0 0-1.41A8 8 0 1 1 12 20"/></svg></button>
             <button className="mt-[18rem] ms-[0.8rem]"><svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 0 0-3.7-3.7a48.678 48.678 0 0 0-7.324 0a4.006 4.006 0 0 0-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 0 0 3.7 3.7a48.656 48.656 0 0 0 7.324 0a4.006 4.006 0 0 0 3.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3"/></svg></button>
