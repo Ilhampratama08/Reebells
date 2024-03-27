@@ -14,13 +14,13 @@ const homepage = () => {
                   <Image className="w-[5.5rem] h-[5.5rem] ms-[-1rem] rounded-full" alt="wow" src="/wow.jpg" width={80} height={80}> 
                   </Image>
                   <p className="ms-[1rem] mt-[-3rem]"><b>Kashim</b></p>
-                  <p className="ms-[-2.5rem] mt-[rem]">404</p>
-                  <Link href="" className=" ms-[20rem] mt-[-1.5rem]">Followers <br />27</Link>
+                  <p className="ms-[-2.5rem] mt-[rem]"></p>
+                  <Link href="" className=" ms-[20rem] mt-[-1.5rem]">Followers <br /> 27</Link>
                 </div>
             </div>
             <div className="mx-[rem]">
-             <p className="ms-[5.5rem] mt-[rem]">This is a Elon Musk</p>
-             <button className="h-8 w-[31rem] mt-[1rem] text-[#fff] rounded-lg bg-[#397692]">Edit Profile</button>
+             <p className="ms-[5.5rem] mt-[-3.4em]">This is a Elon Musk</p>
+             <button className="h-8 w-[31rem] mt-[4rem] text-[#fff] rounded-lg bg-[#397692]">Edit Profile</button>
             </div>           
             <div className="flex justify-between mx-[2.5rem] mt-[1rem]">
             <Link href="" className=""><p>Post</p></Link>

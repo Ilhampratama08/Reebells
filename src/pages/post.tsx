@@ -9,7 +9,7 @@ const homepage = () => {
         <Navbar />
         </header>
         <main className="mx-[32rem] mt-[4rem]">
-            <h1>anday</h1>
+            <h1></h1>
         </main>
         </>
     );
