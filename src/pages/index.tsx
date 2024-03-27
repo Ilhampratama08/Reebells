@@ -52,7 +52,7 @@ const homepage = () => {
 
         <div className="flex justify-between mt-2 items-center">
           <div className="flex items-center">
-            <Image className="mt-[-15rem] w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/pp.jpg" width={80} height={80}></Image>
+            <Image className="mt-[-15rem] w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="wow" src="/ppp.jpg" width={80} height={80}></Image>
 
             <p className="ms-3 h-[19rem]"><b>Darwin</b></p>
             <Image className="ms-[-3rem] rounded" src="/ee.jpg" alt="asoy" width={650} height={400}></Image>

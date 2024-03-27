@@ -17,7 +17,7 @@ const homepage = () => {
             
             <div className=" mt-2 items-center">
                 <div className="flex items-center">
-                   <Image className="w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="bel" src="/pp.jpg" width={40} height={40}> 
+                   <Image className="w-[4rem] h-[4rem] ms-[-1rem] rounded-full" alt="bel" src="/ppp.jpg" width={40} height={40}> 
                    </Image>
                    <p className="ms-3 h-[4rem]"><b>Darwin</b></p>
                    <p className="ms-[-3rem] h-[1rem]">Liked your post</p>
